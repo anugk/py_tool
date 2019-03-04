@@ -268,3 +268,11 @@ def getMyReverseSentence(text):
 
 
 getMyReverseSentence('I am home')
+
+
+x = 'San'
+y = 'Francisco'
+
+print("My city name is {},{}".format(x,y))
+# f String Literal
+print(f"My city name is {x},{y}")
