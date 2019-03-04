@@ -89,12 +89,12 @@ print("After Reverse Sort {}".format(num_list))
 
 # Dictonary uses Curly braces
 
-first_dictonary = {'a1':'anurag','a2':'mishra'}
+first_dictonary = {'a1':'john','a2':'doe'}
 
 print("First key is {}".format(first_dictonary['a1']))
 
 # dictionary with multiple objects type
-second_dictonary = {'a1':'anurag','a2':['a','b','c'],'a3':{'insideKey':200}}
+second_dictonary = {'a1':'john','a2':['a','b','c'],'a3':{'insideKey':200}}
 
 # here we access a2 key-->2nd element(1st index) -->upper.
 
@@ -136,7 +136,7 @@ print("NoneType check {} ".format(type(b)))
 
 # File reading
 
-my_file_path='/Users/tkmaarv/anurag_source/py_tool_scripts/tests/first.tst'
+my_file_path='/Users/Shared/temp/first.tst'
 
 with open(my_file_path) as my_new_file:
     content_of_file = my_new_file.read()
