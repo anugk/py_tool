@@ -1,0 +1,4 @@
+abc 10.1.1.1/32   aabbcc
+def 11.2.0.0/16   eeffgg
+efg 0.0.0.0/0   ddeeff
+efg 172.89.0.234/0   ddeeff
